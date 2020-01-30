@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: hdb@email.com
+Date: Thu, 30 Jan 2020 11:54:11 -0000
+Message-ID: <158038525104.29300.12277136822675934661@1.0.0.127.in-addr.arpa>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/5dk-cd85198011fbccf6b2c6/
+
+Your username, in case you’ve forgotten: hdb
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
